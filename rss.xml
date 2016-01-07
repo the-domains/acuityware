@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AcuityWare]]></title>
+        <description><![CDATA[AcuityWare]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jan 2016 19:17:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Worldwide IT Solutions!]]></title>
+            <description><![CDATA[<article><h1>Worldwide IT Solutions!</h1><p>Acuityware has been providing proven IT solutions to many customers across the globe and continues to provide today's technologies to those who demand it. With rock solid products to customer service, Acuityware will be there when you need us.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d48410d0-8ce2-4740-9216-f649b1511fd3.jpg"></article>]]></description>
+            <link>undefinedb6772ef8-8ba2-472c-917c-530ea8430167/index.html</link>
+            <guid isPermaLink="false">b6772ef8-8ba2-472c-917c-530ea8430167</guid>
+            <pubDate>Thu, 07 Jan 2016 19:17:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
